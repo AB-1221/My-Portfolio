@@ -1,3 +1,5 @@
-# Adetutu B Portfolio
-I bring a robust foundation in research methodologies and data analysis, coupled with a penchant for unearthing valuable insights from diverse sources. As a result, my experience has given me the confidence to support diverse research initiatives and leverage my curiosity in order to drive impactful strategies for leading global enterprises. My strengths lie in my strong communication skills, acute attention to detail, and my ability to problem solve in dynamic environments.
+# Adetutu B Portfolio 
+My passion lies in connecting with people and understanding their needs. I excel in supporting diverse research initiatives, where my strong communication skills and attention to detail enable me to engage effectively with internal and external stakeholders. I thrive on collaborating with teams to advocate for people's needs, ensuring that our solutions are responsive and beneficial to everyone involved.
+
+I have a solid foundation in research methodologies and data analysis, with a strong focus on extracting actionable insights from diverse data sources. My educational background equips me with a unique perspective on behavior and decision-making processes.
 ## M.S. Data Analytics &amp; Decision Process Engineering | B.S. Neuroscience
